@@ -1,12 +1,12 @@
 # Coffee-Quality-Analysis
 
-##The Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA.
+## The Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA.
 
 
 CQI's mission is to promote coffee quality through a range of activities that include research, training, and certification programs. The organization works with coffee growers, processors, roasters, and other stakeholders to improve coffee quality standards, promote sustainability, and support the development of the specialty coffee industry.
 
 
-Data:
+## Data:
 
 The data includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.
 
@@ -27,7 +27,7 @@ Sweetness: It can be described as caramel-like, fruity, or floral, and is a desi
 
 
 
-Defects:
+## Defects:
 
 Defects are undesirable qualities that can occur in coffee beans during processing or storage. Defects can be categorized into two categories: Category One and Category Two defects.
 
@@ -39,7 +39,7 @@ Category Two defects are secondary defects that are more subtle and can only be 
 
 
 
-Objective: 
+## Objective: 
 
 
 
